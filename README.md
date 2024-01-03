@@ -1,6 +1,6 @@
 VotingApp
 Take a look at this Application
-url: https:https://github.com/rishitha242/Voting-System/new/main?
+url: [https:https://github.com/rishitha242/Voting-System/new/main?]
 It is SpringBoot Project with Thymeleaf Frontend. Build in Spring Tool Suite.
 It is a Voting Application.
 Application Features:
@@ -27,7 +27,7 @@ Select Projects from Git(with smart import) -> Next
 
 Select Clone URI -> Next
 
-In URI paste this url: https://github.com/swapnilbamble1438/VotingApp.git -> Next
+In URI paste this url: https://github.com/rishitha242/Voting-System/tree/main Next
 
 Now in Local Destination
 
